@@ -1,0 +1,14 @@
+C:\Training\ListDemo\ListDemo\bin\Debug\net9.0\ListDemo.exe
+C:\Training\ListDemo\ListDemo\bin\Debug\net9.0\ListDemo.deps.json
+C:\Training\ListDemo\ListDemo\bin\Debug\net9.0\ListDemo.runtimeconfig.json
+C:\Training\ListDemo\ListDemo\bin\Debug\net9.0\ListDemo.dll
+C:\Training\ListDemo\ListDemo\bin\Debug\net9.0\ListDemo.pdb
+C:\Training\ListDemo\ListDemo\obj\Debug\net9.0\ListDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\ListDemo\ListDemo\obj\Debug\net9.0\ListDemo.AssemblyInfoInputs.cache
+C:\Training\ListDemo\ListDemo\obj\Debug\net9.0\ListDemo.AssemblyInfo.cs
+C:\Training\ListDemo\ListDemo\obj\Debug\net9.0\ListDemo.csproj.CoreCompileInputs.cache
+C:\Training\ListDemo\ListDemo\obj\Debug\net9.0\ListDemo.dll
+C:\Training\ListDemo\ListDemo\obj\Debug\net9.0\refint\ListDemo.dll
+C:\Training\ListDemo\ListDemo\obj\Debug\net9.0\ListDemo.pdb
+C:\Training\ListDemo\ListDemo\obj\Debug\net9.0\ListDemo.genruntimeconfig.cache
+C:\Training\ListDemo\ListDemo\obj\Debug\net9.0\ref\ListDemo.dll

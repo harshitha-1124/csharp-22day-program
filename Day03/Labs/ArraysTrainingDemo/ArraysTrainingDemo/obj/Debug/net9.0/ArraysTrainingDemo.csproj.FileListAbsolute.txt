@@ -1,0 +1,14 @@
+C:\Training\ArraysTrainingDemo\ArraysTrainingDemo\bin\Debug\net9.0\ArraysTrainingDemo.exe
+C:\Training\ArraysTrainingDemo\ArraysTrainingDemo\bin\Debug\net9.0\ArraysTrainingDemo.deps.json
+C:\Training\ArraysTrainingDemo\ArraysTrainingDemo\bin\Debug\net9.0\ArraysTrainingDemo.runtimeconfig.json
+C:\Training\ArraysTrainingDemo\ArraysTrainingDemo\bin\Debug\net9.0\ArraysTrainingDemo.dll
+C:\Training\ArraysTrainingDemo\ArraysTrainingDemo\bin\Debug\net9.0\ArraysTrainingDemo.pdb
+C:\Training\ArraysTrainingDemo\ArraysTrainingDemo\obj\Debug\net9.0\ArraysTrainingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\ArraysTrainingDemo\ArraysTrainingDemo\obj\Debug\net9.0\ArraysTrainingDemo.AssemblyInfoInputs.cache
+C:\Training\ArraysTrainingDemo\ArraysTrainingDemo\obj\Debug\net9.0\ArraysTrainingDemo.AssemblyInfo.cs
+C:\Training\ArraysTrainingDemo\ArraysTrainingDemo\obj\Debug\net9.0\ArraysTrainingDemo.csproj.CoreCompileInputs.cache
+C:\Training\ArraysTrainingDemo\ArraysTrainingDemo\obj\Debug\net9.0\ArraysTrainingDemo.dll
+C:\Training\ArraysTrainingDemo\ArraysTrainingDemo\obj\Debug\net9.0\refint\ArraysTrainingDemo.dll
+C:\Training\ArraysTrainingDemo\ArraysTrainingDemo\obj\Debug\net9.0\ArraysTrainingDemo.pdb
+C:\Training\ArraysTrainingDemo\ArraysTrainingDemo\obj\Debug\net9.0\ArraysTrainingDemo.genruntimeconfig.cache
+C:\Training\ArraysTrainingDemo\ArraysTrainingDemo\obj\Debug\net9.0\ref\ArraysTrainingDemo.dll

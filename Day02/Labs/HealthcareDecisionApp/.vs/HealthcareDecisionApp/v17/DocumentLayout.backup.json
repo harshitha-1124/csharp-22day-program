@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Training\\HealthcareDecisionApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB84813-56B0-49A0-9DD0-A3B983D3E5A1}|HealthcareDecisionApp\\HealthcareDecisionApp.csproj|c:\\training\\healthcaredecisionapp\\healthcaredecisionapp\\patienttriagesimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAB84813-56B0-49A0-9DD0-A3B983D3E5A1}|HealthcareDecisionApp\\HealthcareDecisionApp.csproj|solutionrelative:healthcaredecisionapp\\patienttriagesimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB84813-56B0-49A0-9DD0-A3B983D3E5A1}|HealthcareDecisionApp\\HealthcareDecisionApp.csproj|c:\\training\\healthcaredecisionapp\\healthcaredecisionapp\\healthcaredecisionapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AAB84813-56B0-49A0-9DD0-A3B983D3E5A1}|HealthcareDecisionApp\\HealthcareDecisionApp.csproj|solutionrelative:healthcaredecisionapp\\healthcaredecisionapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB84813-56B0-49A0-9DD0-A3B983D3E5A1}|HealthcareDecisionApp\\HealthcareDecisionApp.csproj|c:\\training\\healthcaredecisionapp\\healthcaredecisionapp\\patientvitalsmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAB84813-56B0-49A0-9DD0-A3B983D3E5A1}|HealthcareDecisionApp\\HealthcareDecisionApp.csproj|solutionrelative:healthcaredecisionapp\\patientvitalsmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB84813-56B0-49A0-9DD0-A3B983D3E5A1}|HealthcareDecisionApp\\HealthcareDecisionApp.csproj|c:\\training\\healthcaredecisionapp\\healthcaredecisionapp\\wardmedicationscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAB84813-56B0-49A0-9DD0-A3B983D3E5A1}|HealthcareDecisionApp\\HealthcareDecisionApp.csproj|solutionrelative:healthcaredecisionapp\\wardmedicationscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB84813-56B0-49A0-9DD0-A3B983D3E5A1}|HealthcareDecisionApp\\HealthcareDecisionApp.csproj|c:\\training\\healthcaredecisionapp\\healthcaredecisionapp\\healthcaredecisionapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AAB84813-56B0-49A0-9DD0-A3B983D3E5A1}|HealthcareDecisionApp\\HealthcareDecisionApp.csproj|solutionrelative:healthcaredecisionapp\\healthcaredecisionapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB84813-56B0-49A0-9DD0-A3B983D3E5A1}|HealthcareDecisionApp\\HealthcareDecisionApp.csproj|c:\\training\\healthcaredecisionapp\\healthcaredecisionapp\\appointmentrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAB84813-56B0-49A0-9DD0-A3B983D3E5A1}|HealthcareDecisionApp\\HealthcareDecisionApp.csproj|solutionrelative:healthcaredecisionapp\\appointmentrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB84813-56B0-49A0-9DD0-A3B983D3E5A1}|HealthcareDecisionApp\\HealthcareDecisionApp.csproj|c:\\training\\healthcaredecisionapp\\healthcaredecisionapp\\diabetesrisk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAB84813-56B0-49A0-9DD0-A3B983D3E5A1}|HealthcareDecisionApp\\HealthcareDecisionApp.csproj|solutionrelative:healthcaredecisionapp\\diabetesrisk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB84813-56B0-49A0-9DD0-A3B983D3E5A1}|HealthcareDecisionApp\\HealthcareDecisionApp.csproj|c:\\training\\healthcaredecisionapp\\healthcaredecisionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAB84813-56B0-49A0-9DD0-A3B983D3E5A1}|HealthcareDecisionApp\\HealthcareDecisionApp.csproj|solutionrelative:healthcaredecisionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HealthcareDecisionApp",
+              "DocumentMoniker": "C:\\Training\\HealthcareDecisionApp\\HealthcareDecisionApp\\HealthcareDecisionApp.csproj",
+              "RelativeDocumentMoniker": "HealthcareDecisionApp\\HealthcareDecisionApp.csproj",
+              "ToolTip": "C:\\Training\\HealthcareDecisionApp\\HealthcareDecisionApp\\HealthcareDecisionApp.csproj",
+              "RelativeToolTip": "HealthcareDecisionApp\\HealthcareDecisionApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-05T06:53:04.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientTriageSimulation.cs",
+              "DocumentMoniker": "C:\\Training\\HealthcareDecisionApp\\HealthcareDecisionApp\\PatientTriageSimulation.cs",
+              "RelativeDocumentMoniker": "HealthcareDecisionApp\\PatientTriageSimulation.cs",
+              "ToolTip": "C:\\Training\\HealthcareDecisionApp\\HealthcareDecisionApp\\PatientTriageSimulation.cs",
+              "RelativeToolTip": "HealthcareDecisionApp\\PatientTriageSimulation.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T06:51:14.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientVitalsMonitor.cs",
+              "DocumentMoniker": "C:\\Training\\HealthcareDecisionApp\\HealthcareDecisionApp\\PatientVitalsMonitor.cs",
+              "RelativeDocumentMoniker": "HealthcareDecisionApp\\PatientVitalsMonitor.cs",
+              "ToolTip": "C:\\Training\\HealthcareDecisionApp\\HealthcareDecisionApp\\PatientVitalsMonitor.cs",
+              "RelativeToolTip": "HealthcareDecisionApp\\PatientVitalsMonitor.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T06:31:37.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WardMedicationScheduler.cs",
+              "DocumentMoniker": "C:\\Training\\HealthcareDecisionApp\\HealthcareDecisionApp\\WardMedicationScheduler.cs",
+              "RelativeDocumentMoniker": "HealthcareDecisionApp\\WardMedicationScheduler.cs",
+              "ToolTip": "C:\\Training\\HealthcareDecisionApp\\HealthcareDecisionApp\\WardMedicationScheduler.cs",
+              "RelativeToolTip": "HealthcareDecisionApp\\WardMedicationScheduler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T06:40:16.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppointmentRouter.cs",
+              "DocumentMoniker": "C:\\Training\\HealthcareDecisionApp\\HealthcareDecisionApp\\AppointmentRouter.cs",
+              "RelativeDocumentMoniker": "HealthcareDecisionApp\\AppointmentRouter.cs",
+              "ToolTip": "C:\\Training\\HealthcareDecisionApp\\HealthcareDecisionApp\\AppointmentRouter.cs",
+              "RelativeToolTip": "HealthcareDecisionApp\\AppointmentRouter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T06:14:59.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HealthcareDecisionApp",
+              "DocumentMoniker": "C:\\Training\\HealthcareDecisionApp\\HealthcareDecisionApp\\HealthcareDecisionApp.csproj",
+              "RelativeDocumentMoniker": "HealthcareDecisionApp\\HealthcareDecisionApp.csproj",
+              "ToolTip": "C:\\Training\\HealthcareDecisionApp\\HealthcareDecisionApp\\HealthcareDecisionApp.csproj*",
+              "RelativeToolTip": "HealthcareDecisionApp\\HealthcareDecisionApp.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-05T06:08:12.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DiabetesRisk.cs",
+              "DocumentMoniker": "C:\\Training\\HealthcareDecisionApp\\HealthcareDecisionApp\\DiabetesRisk.cs",
+              "RelativeDocumentMoniker": "HealthcareDecisionApp\\DiabetesRisk.cs",
+              "ToolTip": "C:\\Training\\HealthcareDecisionApp\\HealthcareDecisionApp\\DiabetesRisk.cs",
+              "RelativeToolTip": "HealthcareDecisionApp\\DiabetesRisk.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T06:05:50.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Training\\HealthcareDecisionApp\\HealthcareDecisionApp\\Program.cs",
+              "RelativeDocumentMoniker": "HealthcareDecisionApp\\Program.cs",
+              "ToolTip": "C:\\Training\\HealthcareDecisionApp\\HealthcareDecisionApp\\Program.cs",
+              "RelativeToolTip": "HealthcareDecisionApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T05:49:35.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Training\HealthcareDecisionApp\HealthcareDecisionApp\bin\Debug\net9.0\HealthcareDecisionApp.exe
+C:\Training\HealthcareDecisionApp\HealthcareDecisionApp\bin\Debug\net9.0\HealthcareDecisionApp.deps.json
+C:\Training\HealthcareDecisionApp\HealthcareDecisionApp\bin\Debug\net9.0\HealthcareDecisionApp.runtimeconfig.json
+C:\Training\HealthcareDecisionApp\HealthcareDecisionApp\bin\Debug\net9.0\HealthcareDecisionApp.dll
+C:\Training\HealthcareDecisionApp\HealthcareDecisionApp\bin\Debug\net9.0\HealthcareDecisionApp.pdb
+C:\Training\HealthcareDecisionApp\HealthcareDecisionApp\obj\Debug\net9.0\HealthcareDecisionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\HealthcareDecisionApp\HealthcareDecisionApp\obj\Debug\net9.0\HealthcareDecisionApp.AssemblyInfoInputs.cache
+C:\Training\HealthcareDecisionApp\HealthcareDecisionApp\obj\Debug\net9.0\HealthcareDecisionApp.AssemblyInfo.cs
+C:\Training\HealthcareDecisionApp\HealthcareDecisionApp\obj\Debug\net9.0\HealthcareDecisionApp.csproj.CoreCompileInputs.cache
+C:\Training\HealthcareDecisionApp\HealthcareDecisionApp\obj\Debug\net9.0\HealthcareDecisionApp.dll
+C:\Training\HealthcareDecisionApp\HealthcareDecisionApp\obj\Debug\net9.0\refint\HealthcareDecisionApp.dll
+C:\Training\HealthcareDecisionApp\HealthcareDecisionApp\obj\Debug\net9.0\HealthcareDecisionApp.pdb
+C:\Training\HealthcareDecisionApp\HealthcareDecisionApp\obj\Debug\net9.0\HealthcareDecisionApp.genruntimeconfig.cache
+C:\Training\HealthcareDecisionApp\HealthcareDecisionApp\obj\Debug\net9.0\ref\HealthcareDecisionApp.dll

@@ -1,0 +1,14 @@
+C:\Training\C#Assignment\C#Assignment\bin\Debug\net9.0\C#Assignment.exe
+C:\Training\C#Assignment\C#Assignment\bin\Debug\net9.0\C#Assignment.deps.json
+C:\Training\C#Assignment\C#Assignment\bin\Debug\net9.0\C#Assignment.runtimeconfig.json
+C:\Training\C#Assignment\C#Assignment\bin\Debug\net9.0\C#Assignment.dll
+C:\Training\C#Assignment\C#Assignment\bin\Debug\net9.0\C#Assignment.pdb
+C:\Training\C#Assignment\C#Assignment\obj\Debug\net9.0\C#Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\C#Assignment\C#Assignment\obj\Debug\net9.0\C#Assignment.AssemblyInfoInputs.cache
+C:\Training\C#Assignment\C#Assignment\obj\Debug\net9.0\C#Assignment.AssemblyInfo.cs
+C:\Training\C#Assignment\C#Assignment\obj\Debug\net9.0\C#Assignment.csproj.CoreCompileInputs.cache
+C:\Training\C#Assignment\C#Assignment\obj\Debug\net9.0\C#Assignment.dll
+C:\Training\C#Assignment\C#Assignment\obj\Debug\net9.0\refint\C#Assignment.dll
+C:\Training\C#Assignment\C#Assignment\obj\Debug\net9.0\C#Assignment.pdb
+C:\Training\C#Assignment\C#Assignment\obj\Debug\net9.0\C#Assignment.genruntimeconfig.cache
+C:\Training\C#Assignment\C#Assignment\obj\Debug\net9.0\ref\C#Assignment.dll

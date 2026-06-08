@@ -1,0 +1,14 @@
+C:\Training\PatientLookup\PatientLookup\bin\Debug\net9.0\PatientLookup.exe
+C:\Training\PatientLookup\PatientLookup\bin\Debug\net9.0\PatientLookup.deps.json
+C:\Training\PatientLookup\PatientLookup\bin\Debug\net9.0\PatientLookup.runtimeconfig.json
+C:\Training\PatientLookup\PatientLookup\bin\Debug\net9.0\PatientLookup.dll
+C:\Training\PatientLookup\PatientLookup\bin\Debug\net9.0\PatientLookup.pdb
+C:\Training\PatientLookup\PatientLookup\obj\Debug\net9.0\PatientLookup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\PatientLookup\PatientLookup\obj\Debug\net9.0\PatientLookup.AssemblyInfoInputs.cache
+C:\Training\PatientLookup\PatientLookup\obj\Debug\net9.0\PatientLookup.AssemblyInfo.cs
+C:\Training\PatientLookup\PatientLookup\obj\Debug\net9.0\PatientLookup.csproj.CoreCompileInputs.cache
+C:\Training\PatientLookup\PatientLookup\obj\Debug\net9.0\PatientLookup.dll
+C:\Training\PatientLookup\PatientLookup\obj\Debug\net9.0\refint\PatientLookup.dll
+C:\Training\PatientLookup\PatientLookup\obj\Debug\net9.0\PatientLookup.pdb
+C:\Training\PatientLookup\PatientLookup\obj\Debug\net9.0\PatientLookup.genruntimeconfig.cache
+C:\Training\PatientLookup\PatientLookup\obj\Debug\net9.0\ref\PatientLookup.dll

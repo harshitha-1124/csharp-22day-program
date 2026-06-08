@@ -1,0 +1,11 @@
+Garbage Collector - track gen 1 and gen 2
+
+gc.collect() --> developers must do
+
+Memory Management. 
+--creating function (gen1)
+
+
+tryparse instead of int.parse (implicit exception handling)
+
+Bogus

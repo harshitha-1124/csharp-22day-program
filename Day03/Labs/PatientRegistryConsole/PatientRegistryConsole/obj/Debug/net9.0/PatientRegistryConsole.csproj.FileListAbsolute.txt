@@ -1,0 +1,14 @@
+C:\Training\PatientRegistryConsole\PatientRegistryConsole\bin\Debug\net9.0\PatientRegistryConsole.exe
+C:\Training\PatientRegistryConsole\PatientRegistryConsole\bin\Debug\net9.0\PatientRegistryConsole.deps.json
+C:\Training\PatientRegistryConsole\PatientRegistryConsole\bin\Debug\net9.0\PatientRegistryConsole.runtimeconfig.json
+C:\Training\PatientRegistryConsole\PatientRegistryConsole\bin\Debug\net9.0\PatientRegistryConsole.dll
+C:\Training\PatientRegistryConsole\PatientRegistryConsole\bin\Debug\net9.0\PatientRegistryConsole.pdb
+C:\Training\PatientRegistryConsole\PatientRegistryConsole\obj\Debug\net9.0\PatientRegistryConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\PatientRegistryConsole\PatientRegistryConsole\obj\Debug\net9.0\PatientRegistryConsole.AssemblyInfoInputs.cache
+C:\Training\PatientRegistryConsole\PatientRegistryConsole\obj\Debug\net9.0\PatientRegistryConsole.AssemblyInfo.cs
+C:\Training\PatientRegistryConsole\PatientRegistryConsole\obj\Debug\net9.0\PatientRegistryConsole.csproj.CoreCompileInputs.cache
+C:\Training\PatientRegistryConsole\PatientRegistryConsole\obj\Debug\net9.0\PatientRegistryConsole.dll
+C:\Training\PatientRegistryConsole\PatientRegistryConsole\obj\Debug\net9.0\refint\PatientRegistryConsole.dll
+C:\Training\PatientRegistryConsole\PatientRegistryConsole\obj\Debug\net9.0\PatientRegistryConsole.pdb
+C:\Training\PatientRegistryConsole\PatientRegistryConsole\obj\Debug\net9.0\PatientRegistryConsole.genruntimeconfig.cache
+C:\Training\PatientRegistryConsole\PatientRegistryConsole\obj\Debug\net9.0\ref\PatientRegistryConsole.dll

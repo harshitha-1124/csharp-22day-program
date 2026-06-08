@@ -1,0 +1,14 @@
+C:\Training\PatientQueue\PatientQueue\bin\Debug\net9.0\PatientQueue.exe
+C:\Training\PatientQueue\PatientQueue\bin\Debug\net9.0\PatientQueue.deps.json
+C:\Training\PatientQueue\PatientQueue\bin\Debug\net9.0\PatientQueue.runtimeconfig.json
+C:\Training\PatientQueue\PatientQueue\bin\Debug\net9.0\PatientQueue.dll
+C:\Training\PatientQueue\PatientQueue\bin\Debug\net9.0\PatientQueue.pdb
+C:\Training\PatientQueue\PatientQueue\obj\Debug\net9.0\PatientQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\PatientQueue\PatientQueue\obj\Debug\net9.0\PatientQueue.AssemblyInfoInputs.cache
+C:\Training\PatientQueue\PatientQueue\obj\Debug\net9.0\PatientQueue.AssemblyInfo.cs
+C:\Training\PatientQueue\PatientQueue\obj\Debug\net9.0\PatientQueue.csproj.CoreCompileInputs.cache
+C:\Training\PatientQueue\PatientQueue\obj\Debug\net9.0\PatientQueue.dll
+C:\Training\PatientQueue\PatientQueue\obj\Debug\net9.0\refint\PatientQueue.dll
+C:\Training\PatientQueue\PatientQueue\obj\Debug\net9.0\PatientQueue.pdb
+C:\Training\PatientQueue\PatientQueue\obj\Debug\net9.0\PatientQueue.genruntimeconfig.cache
+C:\Training\PatientQueue\PatientQueue\obj\Debug\net9.0\ref\PatientQueue.dll
