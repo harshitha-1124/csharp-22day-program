@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Training\\CareBridge.EFCoreDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D703103-81AE-4911-8F32-2339B17D597A}|CareBridge.API\\CareBridge.API.csproj|c:\\training\\carebridge.efcoredemo\\carebridge.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D703103-81AE-4911-8F32-2339B17D597A}|CareBridge.API\\CareBridge.API.csproj|solutionrelative:carebridge.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Training\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Models\\Generated\\CareBridgeScaffoldContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CareBridge.EFCoreDemo\\Models\\Generated\\CareBridgeScaffoldContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CE033B-FE57-408D-847E-357614A4A0CE}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|c:\\training\\carebridge.efcoredemo\\carebridge.efcoredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CE033B-FE57-408D-847E-357614A4A0CE}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|solutionrelative:carebridge.efcoredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CE033B-FE57-408D-847E-357614A4A0CE}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|c:\\training\\carebridge.efcoredemo\\carebridge.efcoredemo\\models\\generated\\claimsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CE033B-FE57-408D-847E-357614A4A0CE}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|solutionrelative:carebridge.efcoredemo\\models\\generated\\claimsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CE033B-FE57-408D-847E-357614A4A0CE}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|c:\\training\\carebridge.efcoredemo\\carebridge.efcoredemo\\models\\generated\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CE033B-FE57-408D-847E-357614A4A0CE}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|solutionrelative:carebridge.efcoredemo\\models\\generated\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CE033B-FE57-408D-847E-357614A4A0CE}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|c:\\training\\carebridge.efcoredemo\\carebridge.efcoredemo\\carebridge.efcoredemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94CE033B-FE57-408D-847E-357614A4A0CE}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|solutionrelative:carebridge.efcoredemo\\carebridge.efcoredemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CE033B-FE57-408D-847E-357614A4A0CE}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|c:\\training\\carebridge.efcoredemo\\carebridge.efcoredemo\\data\\carebridgecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CE033B-FE57-408D-847E-357614A4A0CE}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|solutionrelative:carebridge.efcoredemo\\data\\carebridgecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CE033B-FE57-408D-847E-357614A4A0CE}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|c:\\training\\carebridge.efcoredemo\\carebridge.efcoredemo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CE033B-FE57-408D-847E-357614A4A0CE}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|solutionrelative:carebridge.efcoredemo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CE033B-FE57-408D-847E-357614A4A0CE}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|c:\\training\\carebridge.efcoredemo\\carebridge.efcoredemo\\models\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CE033B-FE57-408D-847E-357614A4A0CE}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|solutionrelative:carebridge.efcoredemo\\models\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CE033B-FE57-408D-847E-357614A4A0CE}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|c:\\training\\carebridge.efcoredemo\\carebridge.efcoredemo\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CE033B-FE57-408D-847E-357614A4A0CE}|CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj|solutionrelative:carebridge.efcoredemo\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Training\\CareBridge.EFCoreDemo\\CareBridge.API\\Program.cs",
+              "RelativeDocumentMoniker": "CareBridge.API\\Program.cs",
+              "ToolTip": "C:\\Training\\CareBridge.EFCoreDemo\\CareBridge.API\\Program.cs",
+              "RelativeToolTip": "CareBridge.API\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T09:31:51.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\Training\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Models\\Generated\\Claim.cs",
+              "RelativeDocumentMoniker": "CareBridge.EFCoreDemo\\Models\\Generated\\Claim.cs",
+              "ToolTip": "C:\\Training\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Models\\Generated\\Claim.cs",
+              "RelativeToolTip": "CareBridge.EFCoreDemo\\Models\\Generated\\Claim.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T06:56:28.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CareBridgeScaffoldContext.cs",
+              "DocumentMoniker": "C:\\Training\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Models\\Generated\\CareBridgeScaffoldContext.cs",
+              "RelativeDocumentMoniker": "CareBridge.EFCoreDemo\\Models\\Generated\\CareBridgeScaffoldContext.cs",
+              "ToolTip": "C:\\Training\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Models\\Generated\\CareBridgeScaffoldContext.cs",
+              "RelativeToolTip": "CareBridge.EFCoreDemo\\Models\\Generated\\CareBridgeScaffoldContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T06:55:52.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CareBridge.EFCoreDemo",
+              "DocumentMoniker": "C:\\Training\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj",
+              "RelativeDocumentMoniker": "CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj",
+              "ToolTip": "C:\\Training\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj",
+              "RelativeToolTip": "CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-08T06:40:04.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Training\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Program.cs",
+              "RelativeDocumentMoniker": "CareBridge.EFCoreDemo\\Program.cs",
+              "ToolTip": "C:\\Training\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Program.cs",
+              "RelativeToolTip": "CareBridge.EFCoreDemo\\Program.cs",
+              "ViewState": "AgIAAGABAAAAAAAAAAAAAGUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T06:14:19.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClaimsView.cs",
+              "DocumentMoniker": "C:\\Training\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Models\\Generated\\ClaimsView.cs",
+              "RelativeDocumentMoniker": "CareBridge.EFCoreDemo\\Models\\Generated\\ClaimsView.cs",
+              "ToolTip": "C:\\Training\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Models\\Generated\\ClaimsView.cs",
+              "RelativeToolTip": "CareBridge.EFCoreDemo\\Models\\Generated\\ClaimsView.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T06:56:58.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CareBridgeContext.cs",
+              "DocumentMoniker": "C:\\Training\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Data\\CareBridgeContext.cs",
+              "RelativeDocumentMoniker": "CareBridge.EFCoreDemo\\Data\\CareBridgeContext.cs",
+              "ToolTip": "C:\\Training\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Data\\CareBridgeContext.cs",
+              "RelativeToolTip": "CareBridge.EFCoreDemo\\Data\\CareBridgeContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T06:40:36.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Training\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "CareBridge.EFCoreDemo\\Models\\Patient.cs",
+              "ToolTip": "C:\\Training\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Models\\Patient.cs",
+              "RelativeToolTip": "CareBridge.EFCoreDemo\\Models\\Patient.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T06:26:22.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Provider.cs",
+              "DocumentMoniker": "C:\\Training\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Models\\Provider.cs",
+              "RelativeDocumentMoniker": "CareBridge.EFCoreDemo\\Models\\Provider.cs",
+              "ToolTip": "C:\\Training\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Models\\Provider.cs",
+              "RelativeToolTip": "CareBridge.EFCoreDemo\\Models\\Provider.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T06:27:35.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Training\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "CareBridge.EFCoreDemo\\Models\\Department.cs",
+              "ToolTip": "C:\\Training\\CareBridge.EFCoreDemo\\CareBridge.EFCoreDemo\\Models\\Department.cs",
+              "RelativeToolTip": "CareBridge.EFCoreDemo\\Models\\Department.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T06:28:45.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

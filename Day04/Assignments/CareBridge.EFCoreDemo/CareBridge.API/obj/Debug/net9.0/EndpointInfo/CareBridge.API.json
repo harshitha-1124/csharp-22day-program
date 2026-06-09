@@ -1,0 +1,99 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "CareBridge.API",
+    "version": "1.0"
+  },
+  "paths": {
+    "/": {
+      "get": {
+        "tags": [
+          "CareBridge.API"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/getData": {
+      "get": {
+        "tags": [
+          "CareBridge.API"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/StringInt32Int32Int32Int32<>f__AnonymousType0ListInt32<>f__AnonymousType1"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "StringInt32Int32Int32Int32<>f__AnonymousType0": {
+        "type": "object",
+        "properties": {
+          "departmentName": {
+            "type": "string",
+            "nullable": true
+          },
+          "inpatient": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "outpatient": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "ed": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "total": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "StringInt32Int32Int32Int32<>f__AnonymousType0ListInt32<>f__AnonymousType1": {
+        "type": "object",
+        "properties": {
+          "data": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/StringInt32Int32Int32Int32<>f__AnonymousType0"
+            },
+            "nullable": true
+          },
+          "grandTotal": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "CareBridge.API"
+    }
+  ]
+}
