@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Training\\EHRMvcAuditLedgerDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50EE4DD6-4314-454F-815A-A3C018F668AA}|EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo.csproj|c:\\training\\ehrmvcauditledgerdemo\\ehrmvcauditledgerdemo\\views\\transaction\\verify.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50EE4DD6-4314-454F-815A-A3C018F668AA}|EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo.csproj|solutionrelative:ehrmvcauditledgerdemo\\views\\transaction\\verify.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EE4DD6-4314-454F-815A-A3C018F668AA}|EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo.csproj|c:\\training\\ehrmvcauditledgerdemo\\ehrmvcauditledgerdemo\\views\\transaction\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50EE4DD6-4314-454F-815A-A3C018F668AA}|EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo.csproj|solutionrelative:ehrmvcauditledgerdemo\\views\\transaction\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EE4DD6-4314-454F-815A-A3C018F668AA}|EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo.csproj|c:\\training\\ehrmvcauditledgerdemo\\ehrmvcauditledgerdemo\\views\\transaction\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50EE4DD6-4314-454F-815A-A3C018F668AA}|EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo.csproj|solutionrelative:ehrmvcauditledgerdemo\\views\\transaction\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EE4DD6-4314-454F-815A-A3C018F668AA}|EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo.csproj|c:\\training\\ehrmvcauditledgerdemo\\ehrmvcauditledgerdemo\\services\\ledgerhashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EE4DD6-4314-454F-815A-A3C018F668AA}|EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo.csproj|solutionrelative:ehrmvcauditledgerdemo\\services\\ledgerhashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EE4DD6-4314-454F-815A-A3C018F668AA}|EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo.csproj|c:\\training\\ehrmvcauditledgerdemo\\ehrmvcauditledgerdemo\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EE4DD6-4314-454F-815A-A3C018F668AA}|EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo.csproj|solutionrelative:ehrmvcauditledgerdemo\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EE4DD6-4314-454F-815A-A3C018F668AA}|EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo.csproj|c:\\training\\ehrmvcauditledgerdemo\\ehrmvcauditledgerdemo\\models\\transactionledger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EE4DD6-4314-454F-815A-A3C018F668AA}|EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo.csproj|solutionrelative:ehrmvcauditledgerdemo\\models\\transactionledger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EE4DD6-4314-454F-815A-A3C018F668AA}|EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo.csproj|c:\\training\\ehrmvcauditledgerdemo\\ehrmvcauditledgerdemo\\validation\\futureortodaydateattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EE4DD6-4314-454F-815A-A3C018F668AA}|EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo.csproj|solutionrelative:ehrmvcauditledgerdemo\\validation\\futureortodaydateattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EE4DD6-4314-454F-815A-A3C018F668AA}|EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo.csproj|c:\\training\\ehrmvcauditledgerdemo\\ehrmvcauditledgerdemo\\validation\\allowedtransactiontypeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EE4DD6-4314-454F-815A-A3C018F668AA}|EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo.csproj|solutionrelative:ehrmvcauditledgerdemo\\validation\\allowedtransactiontypeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EE4DD6-4314-454F-815A-A3C018F668AA}|EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo.csproj|c:\\training\\ehrmvcauditledgerdemo\\ehrmvcauditledgerdemo\\models\\patienttransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EE4DD6-4314-454F-815A-A3C018F668AA}|EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo.csproj|solutionrelative:ehrmvcauditledgerdemo\\models\\patienttransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EE4DD6-4314-454F-815A-A3C018F668AA}|EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo.csproj|c:\\training\\ehrmvcauditledgerdemo\\ehrmvcauditledgerdemo\\data\\ehrdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EE4DD6-4314-454F-815A-A3C018F668AA}|EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo.csproj|solutionrelative:ehrmvcauditledgerdemo\\data\\ehrdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EE4DD6-4314-454F-815A-A3C018F668AA}|EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo.csproj|c:\\training\\ehrmvcauditledgerdemo\\ehrmvcauditledgerdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EE4DD6-4314-454F-815A-A3C018F668AA}|EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo.csproj|solutionrelative:ehrmvcauditledgerdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EE4DD6-4314-454F-815A-A3C018F668AA}|EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo.csproj|c:\\training\\ehrmvcauditledgerdemo\\ehrmvcauditledgerdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50EE4DD6-4314-454F-815A-A3C018F668AA}|EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo.csproj|solutionrelative:ehrmvcauditledgerdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Verify.cshtml",
+              "DocumentMoniker": "C:\\Training\\EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo\\Views\\Transaction\\Verify.cshtml",
+              "RelativeDocumentMoniker": "EHRMvcAuditLedgerDemo\\Views\\Transaction\\Verify.cshtml",
+              "ToolTip": "C:\\Training\\EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo\\Views\\Transaction\\Verify.cshtml",
+              "RelativeToolTip": "EHRMvcAuditLedgerDemo\\Views\\Transaction\\Verify.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-12T09:14:48.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Training\\EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo\\Views\\Transaction\\Success.cshtml",
+              "RelativeDocumentMoniker": "EHRMvcAuditLedgerDemo\\Views\\Transaction\\Success.cshtml",
+              "ToolTip": "C:\\Training\\EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo\\Views\\Transaction\\Success.cshtml",
+              "RelativeToolTip": "EHRMvcAuditLedgerDemo\\Views\\Transaction\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-12T09:12:55.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Training\\EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo\\Views\\Transaction\\Create.cshtml",
+              "RelativeDocumentMoniker": "EHRMvcAuditLedgerDemo\\Views\\Transaction\\Create.cshtml",
+              "ToolTip": "C:\\Training\\EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo\\Views\\Transaction\\Create.cshtml",
+              "RelativeToolTip": "EHRMvcAuditLedgerDemo\\Views\\Transaction\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-12T09:11:26.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Training\\EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "EHRMvcAuditLedgerDemo\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Training\\EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "EHRMvcAuditLedgerDemo\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T09:08:36.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LedgerHashService.cs",
+              "DocumentMoniker": "C:\\Training\\EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo\\Services\\LedgerHashService.cs",
+              "RelativeDocumentMoniker": "EHRMvcAuditLedgerDemo\\Services\\LedgerHashService.cs",
+              "ToolTip": "C:\\Training\\EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo\\Services\\LedgerHashService.cs",
+              "RelativeToolTip": "EHRMvcAuditLedgerDemo\\Services\\LedgerHashService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T08:37:55.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FutureOrTodayDateAttribute.cs",
+              "DocumentMoniker": "C:\\Training\\EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo\\Validation\\FutureOrTodayDateAttribute.cs",
+              "RelativeDocumentMoniker": "EHRMvcAuditLedgerDemo\\Validation\\FutureOrTodayDateAttribute.cs",
+              "ToolTip": "C:\\Training\\EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo\\Validation\\FutureOrTodayDateAttribute.cs",
+              "RelativeToolTip": "EHRMvcAuditLedgerDemo\\Validation\\FutureOrTodayDateAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T07:04:19.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AllowedTransactionTypeAttribute.cs",
+              "DocumentMoniker": "C:\\Training\\EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo\\Validation\\AllowedTransactionTypeAttribute.cs",
+              "RelativeDocumentMoniker": "EHRMvcAuditLedgerDemo\\Validation\\AllowedTransactionTypeAttribute.cs",
+              "ToolTip": "C:\\Training\\EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo\\Validation\\AllowedTransactionTypeAttribute.cs",
+              "RelativeToolTip": "EHRMvcAuditLedgerDemo\\Validation\\AllowedTransactionTypeAttribute.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T06:59:00.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionLedger.cs",
+              "DocumentMoniker": "C:\\Training\\EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo\\Models\\TransactionLedger.cs",
+              "RelativeDocumentMoniker": "EHRMvcAuditLedgerDemo\\Models\\TransactionLedger.cs",
+              "ToolTip": "C:\\Training\\EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo\\Models\\TransactionLedger.cs",
+              "RelativeToolTip": "EHRMvcAuditLedgerDemo\\Models\\TransactionLedger.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T06:52:37.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PatientTransaction.cs",
+              "DocumentMoniker": "C:\\Training\\EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo\\Models\\PatientTransaction.cs",
+              "RelativeDocumentMoniker": "EHRMvcAuditLedgerDemo\\Models\\PatientTransaction.cs",
+              "ToolTip": "C:\\Training\\EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo\\Models\\PatientTransaction.cs",
+              "RelativeToolTip": "EHRMvcAuditLedgerDemo\\Models\\PatientTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T06:46:46.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EHRDbContext.cs",
+              "DocumentMoniker": "C:\\Training\\EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo\\Data\\EHRDbContext.cs",
+              "RelativeDocumentMoniker": "EHRMvcAuditLedgerDemo\\Data\\EHRDbContext.cs",
+              "ToolTip": "C:\\Training\\EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo\\Data\\EHRDbContext.cs",
+              "RelativeToolTip": "EHRMvcAuditLedgerDemo\\Data\\EHRDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T06:44:07.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Training\\EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo\\Program.cs",
+              "RelativeDocumentMoniker": "EHRMvcAuditLedgerDemo\\Program.cs",
+              "ToolTip": "C:\\Training\\EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo\\Program.cs",
+              "RelativeToolTip": "EHRMvcAuditLedgerDemo\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T06:36:26.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Training\\EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "EHRMvcAuditLedgerDemo\\appsettings.json",
+              "ToolTip": "C:\\Training\\EHRMvcAuditLedgerDemo\\EHRMvcAuditLedgerDemo\\appsettings.json",
+              "RelativeToolTip": "EHRMvcAuditLedgerDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-12T06:30:38.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
