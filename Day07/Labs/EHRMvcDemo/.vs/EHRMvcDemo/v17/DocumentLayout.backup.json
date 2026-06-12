@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Training\\EHRMvcDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CDC605-BA39-45FE-8C5D-F2623B8298CC}|EHRMvcDemo\\EHRMvcDemo.csproj|c:\\training\\ehrmvcdemo\\ehrmvcdemo\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5CDC605-BA39-45FE-8C5D-F2623B8298CC}|EHRMvcDemo\\EHRMvcDemo.csproj|solutionrelative:ehrmvcdemo\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CDC605-BA39-45FE-8C5D-F2623B8298CC}|EHRMvcDemo\\EHRMvcDemo.csproj|c:\\training\\ehrmvcdemo\\ehrmvcdemo\\views\\doctor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5CDC605-BA39-45FE-8C5D-F2623B8298CC}|EHRMvcDemo\\EHRMvcDemo.csproj|solutionrelative:ehrmvcdemo\\views\\doctor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CDC605-BA39-45FE-8C5D-F2623B8298CC}|EHRMvcDemo\\EHRMvcDemo.csproj|c:\\training\\ehrmvcdemo\\ehrmvcdemo\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5CDC605-BA39-45FE-8C5D-F2623B8298CC}|EHRMvcDemo\\EHRMvcDemo.csproj|solutionrelative:ehrmvcdemo\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CDC605-BA39-45FE-8C5D-F2623B8298CC}|EHRMvcDemo\\EHRMvcDemo.csproj|c:\\training\\ehrmvcdemo\\ehrmvcdemo\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CDC605-BA39-45FE-8C5D-F2623B8298CC}|EHRMvcDemo\\EHRMvcDemo.csproj|solutionrelative:ehrmvcdemo\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CDC605-BA39-45FE-8C5D-F2623B8298CC}|EHRMvcDemo\\EHRMvcDemo.csproj|c:\\training\\ehrmvcdemo\\ehrmvcdemo\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CDC605-BA39-45FE-8C5D-F2623B8298CC}|EHRMvcDemo\\EHRMvcDemo.csproj|solutionrelative:ehrmvcdemo\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CDC605-BA39-45FE-8C5D-F2623B8298CC}|EHRMvcDemo\\EHRMvcDemo.csproj|c:\\training\\ehrmvcdemo\\ehrmvcdemo\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CDC605-BA39-45FE-8C5D-F2623B8298CC}|EHRMvcDemo\\EHRMvcDemo.csproj|solutionrelative:ehrmvcdemo\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CDC605-BA39-45FE-8C5D-F2623B8298CC}|EHRMvcDemo\\EHRMvcDemo.csproj|c:\\training\\ehrmvcdemo\\ehrmvcdemo\\models\\labresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CDC605-BA39-45FE-8C5D-F2623B8298CC}|EHRMvcDemo\\EHRMvcDemo.csproj|solutionrelative:ehrmvcdemo\\models\\labresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CDC605-BA39-45FE-8C5D-F2623B8298CC}|EHRMvcDemo\\EHRMvcDemo.csproj|c:\\training\\ehrmvcdemo\\ehrmvcdemo\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CDC605-BA39-45FE-8C5D-F2623B8298CC}|EHRMvcDemo\\EHRMvcDemo.csproj|solutionrelative:ehrmvcdemo\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CDC605-BA39-45FE-8C5D-F2623B8298CC}|EHRMvcDemo\\EHRMvcDemo.csproj|c:\\training\\ehrmvcdemo\\ehrmvcdemo\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CDC605-BA39-45FE-8C5D-F2623B8298CC}|EHRMvcDemo\\EHRMvcDemo.csproj|solutionrelative:ehrmvcdemo\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CDC605-BA39-45FE-8C5D-F2623B8298CC}|EHRMvcDemo\\EHRMvcDemo.csproj|c:\\training\\ehrmvcdemo\\ehrmvcdemo\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CDC605-BA39-45FE-8C5D-F2623B8298CC}|EHRMvcDemo\\EHRMvcDemo.csproj|solutionrelative:ehrmvcdemo\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CDC605-BA39-45FE-8C5D-F2623B8298CC}|EHRMvcDemo\\EHRMvcDemo.csproj|c:\\training\\ehrmvcdemo\\ehrmvcdemo\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5CDC605-BA39-45FE-8C5D-F2623B8298CC}|EHRMvcDemo\\EHRMvcDemo.csproj|solutionrelative:ehrmvcdemo\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CDC605-BA39-45FE-8C5D-F2623B8298CC}|EHRMvcDemo\\EHRMvcDemo.csproj|c:\\training\\ehrmvcdemo\\ehrmvcdemo\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CDC605-BA39-45FE-8C5D-F2623B8298CC}|EHRMvcDemo\\EHRMvcDemo.csproj|solutionrelative:ehrmvcdemo\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CDC605-BA39-45FE-8C5D-F2623B8298CC}|EHRMvcDemo\\EHRMvcDemo.csproj|c:\\training\\ehrmvcdemo\\ehrmvcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CDC605-BA39-45FE-8C5D-F2623B8298CC}|EHRMvcDemo\\EHRMvcDemo.csproj|solutionrelative:ehrmvcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CDC605-BA39-45FE-8C5D-F2623B8298CC}|EHRMvcDemo\\EHRMvcDemo.csproj|c:\\training\\ehrmvcdemo\\ehrmvcdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5CDC605-BA39-45FE-8C5D-F2623B8298CC}|EHRMvcDemo\\EHRMvcDemo.csproj|solutionrelative:ehrmvcdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CDC605-BA39-45FE-8C5D-F2623B8298CC}|EHRMvcDemo\\EHRMvcDemo.csproj|c:\\training\\ehrmvcdemo\\ehrmvcdemo\\data\\ehrdbcontext.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CDC605-BA39-45FE-8C5D-F2623B8298CC}|EHRMvcDemo\\EHRMvcDemo.csproj|solutionrelative:ehrmvcdemo\\data\\ehrdbcontext.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Training\\EHRMvcDemo\\EHRMvcDemo\\Views\\Appointment\\Create.cshtml",
+              "RelativeDocumentMoniker": "EHRMvcDemo\\Views\\Appointment\\Create.cshtml",
+              "ToolTip": "C:\\Training\\EHRMvcDemo\\EHRMvcDemo\\Views\\Appointment\\Create.cshtml",
+              "RelativeToolTip": "EHRMvcDemo\\Views\\Appointment\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T11:06:22.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Training\\EHRMvcDemo\\EHRMvcDemo\\Views\\Doctor\\Details.cshtml",
+              "RelativeDocumentMoniker": "EHRMvcDemo\\Views\\Doctor\\Details.cshtml",
+              "ToolTip": "C:\\Training\\EHRMvcDemo\\EHRMvcDemo\\Views\\Doctor\\Details.cshtml",
+              "RelativeToolTip": "EHRMvcDemo\\Views\\Doctor\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T11:03:17.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Training\\EHRMvcDemo\\EHRMvcDemo\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "EHRMvcDemo\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "C:\\Training\\EHRMvcDemo\\EHRMvcDemo\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "EHRMvcDemo\\Views\\Doctor\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T11:01:11.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Training\\EHRMvcDemo\\EHRMvcDemo\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "EHRMvcDemo\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Training\\EHRMvcDemo\\EHRMvcDemo\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "EHRMvcDemo\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T10:58:42.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Training\\EHRMvcDemo\\EHRMvcDemo\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "EHRMvcDemo\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Training\\EHRMvcDemo\\EHRMvcDemo\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "EHRMvcDemo\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T10:56:26.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Training\\EHRMvcDemo\\EHRMvcDemo\\Views\\Patients\\Index.cshtml",
+              "RelativeDocumentMoniker": "EHRMvcDemo\\Views\\Patients\\Index.cshtml",
+              "ToolTip": "C:\\Training\\EHRMvcDemo\\EHRMvcDemo\\Views\\Patients\\Index.cshtml",
+              "RelativeToolTip": "EHRMvcDemo\\Views\\Patients\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T09:20:41.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Training\\EHRMvcDemo\\EHRMvcDemo\\Models\\AuditLog.cs",
+              "RelativeDocumentMoniker": "EHRMvcDemo\\Models\\AuditLog.cs",
+              "ToolTip": "C:\\Training\\EHRMvcDemo\\EHRMvcDemo\\Models\\AuditLog.cs",
+              "RelativeToolTip": "EHRMvcDemo\\Models\\AuditLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:11:29.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LabResult.cs",
+              "DocumentMoniker": "C:\\Training\\EHRMvcDemo\\EHRMvcDemo\\Models\\LabResult.cs",
+              "RelativeDocumentMoniker": "EHRMvcDemo\\Models\\LabResult.cs",
+              "ToolTip": "C:\\Training\\EHRMvcDemo\\EHRMvcDemo\\Models\\LabResult.cs",
+              "RelativeToolTip": "EHRMvcDemo\\Models\\LabResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:10:41.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Training\\EHRMvcDemo\\EHRMvcDemo\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "EHRMvcDemo\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Training\\EHRMvcDemo\\EHRMvcDemo\\Models\\Appointment.cs",
+              "RelativeToolTip": "EHRMvcDemo\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:08:21.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Training\\EHRMvcDemo\\EHRMvcDemo\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "EHRMvcDemo\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Training\\EHRMvcDemo\\EHRMvcDemo\\Models\\Doctor.cs",
+              "RelativeToolTip": "EHRMvcDemo\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:07:14.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Training\\EHRMvcDemo\\EHRMvcDemo\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "EHRMvcDemo\\Models\\Patient.cs",
+              "ToolTip": "C:\\Training\\EHRMvcDemo\\EHRMvcDemo\\Models\\Patient.cs",
+              "RelativeToolTip": "EHRMvcDemo\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:05:44.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Training\\EHRMvcDemo\\EHRMvcDemo\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "EHRMvcDemo\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Training\\EHRMvcDemo\\EHRMvcDemo\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "EHRMvcDemo\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:12:39.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Training\\EHRMvcDemo\\EHRMvcDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "EHRMvcDemo\\appsettings.json",
+              "ToolTip": "C:\\Training\\EHRMvcDemo\\EHRMvcDemo\\appsettings.json",
+              "RelativeToolTip": "EHRMvcDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-11T09:02:16.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Training\\EHRMvcDemo\\EHRMvcDemo\\Program.cs",
+              "RelativeDocumentMoniker": "EHRMvcDemo\\Program.cs",
+              "ToolTip": "C:\\Training\\EHRMvcDemo\\EHRMvcDemo\\Program.cs",
+              "RelativeToolTip": "EHRMvcDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:00:07.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EHRDbContext.cs.cs",
+              "DocumentMoniker": "C:\\Training\\EHRMvcDemo\\EHRMvcDemo\\Data\\EHRDbContext.cs.cs",
+              "RelativeDocumentMoniker": "EHRMvcDemo\\Data\\EHRDbContext.cs.cs",
+              "ToolTip": "C:\\Training\\EHRMvcDemo\\EHRMvcDemo\\Data\\EHRDbContext.cs.cs",
+              "RelativeToolTip": "EHRMvcDemo\\Data\\EHRDbContext.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T08:59:55.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
