@@ -1,0 +1,92 @@
+Facility (
+    facility_id PK,
+    facility_name,
+    facility_location,
+    created_at,
+    is_active
+)
+
+
+
+Department (
+    department_id PK,
+    facility_id FK,
+    department_name,
+    created_at,
+    is_active
+)
+
+
+Patient (
+    patient_id PK,
+    mrn_number,
+	full_name,
+       dob,
+    gender,
+    phone_number,
+    identification_type,
+    identification_number,
+        created_at,
+    is_active
+)
+
+
+Payer (
+    payer_id PK,
+    payer_name,
+    contact_number,
+    tat_days,
+)
+
+
+Encounter (
+    encounter_id PK,
+    
+    patient_id FK,
+    facility_id FK,
+    department_id FK,
+    condition_type,
+    verification_status,
+    request_status,
+	identification_verified,
+        prescription_verified,
+    scan_verified,
+    doctor_notes_verified,
+    insurance_card_verified,
+    remarks,
+    created_at,
+    updated_at,
+    is_active
+)
+
+
+AuthorizationRequest (
+    auth_id PK,
+    encounter_id FK,
+    payer_id FK,
+    priority,           -- Normal / Urgent
+    status,
+    estimated_total_amount,
+    approved_amount,
+    submitted_at,
+    reviewed_at,
+    expiration_date,
+    created_at,
+    updated_at
+)
+
+
+AuthorizationService (
+    service_id PK,
+    auth_id FK,
+    cpt_code FK,
+    icd_code FK,
+    estimated_cost,
+    notes,
+    created_at
+)
+
+
+
+
+
